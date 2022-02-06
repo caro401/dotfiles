@@ -1,0 +1,45 @@
+{
+  "clock.format": "ddd d mmm HH:MM",
+  "clock.iconName": "rocket",
+  "diffEditor.codeLens": true,
+  "editor.fontFamily": "'Fira Code', Iosevka, 'Victor Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.suggestSelection": "first",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true
+  },
+  "git.autofetch": true,
+  "markdownlint.config": {
+    "MD010": false, // no hard tabs, conflicts with prettier
+    "MD033": false, // no inline HTML, conflicts with svelte
+    "MD041": false // First line in a file should be a top-level heading
+  },
+  "svelte.ask-to-enable-ts-plugin": false,
+  "svelte.enable-ts-plugin": true,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "testExplorer.addToEditorContextMenu": true,
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vs-seti",
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "readme",
+  "workbench.tree.indent": 4
+}

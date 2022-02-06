@@ -1,0 +1,40 @@
+{
+  "recommendations": [
+    // Theme and colours
+    "dracula-theme.theme-dracula",
+    "johnpapa.vscode-peacock",
+    "2gua.rainbow-brackets",
+    "mechatroner.rainbow-csv",
+
+    // UI features
+    "angelo-breuer.clock",
+    "Gruntfuggly.todo-tree",
+    "WakaTime.vscode-wakatime",
+
+    // Git
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+
+    // Language support
+    "bradlc.vscode-tailwindcss",
+    "svelte.svelte-vscode",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "softaware.abc-music",
+
+    // Linters
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+
+    // Misc helpful things
+    "docsmsft.docs-images",
+    "hbenl.vscode-test-explorer",
+    "ms-vscode.test-adapter-converter",
+    "richie5um2.vscode-sort-json",
+    "wmaurer.change-case",
+    "ms-vsliveshare.vsliveshare"
+  ]
+}
